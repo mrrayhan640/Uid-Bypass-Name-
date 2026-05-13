@@ -1,7 +1,7 @@
-STX=SYNTAX CORPORATION
-DANGER=Danger Panel
-EXE=EXE ELITE
-7S=7S WORLD
-R4X=R4X BYPASS
-NOVA=NOVA HEX
-LDG=LEGEND OF ZOO
+_nameCache["STX"] = "SYNTAX CORPORATION";
+_nameCache["DANGER"] = "Danger Panel";
+_nameCache["EXE"] = "EXE ELITE";
+_nameCache["7S"] = "7S WORLD";
+_nameCache["R4X"] = "R4X BYPASS";
+_nameCache["NOVA"] = "NOVA HEX";
+_nameCache["LDG"] = "LEGEND OF ZOO";
